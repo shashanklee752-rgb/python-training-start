@@ -1,0 +1,38 @@
+{
+    "Electronics": [
+        {
+            "ProductID": "P001",
+            "ProductName": "Laptop",
+            "Price": 1200,
+            "Stock": 50
+        },
+        {
+            "ProductID": "P004",
+            "ProductName": "Smartphone",
+            "Price": 800,
+            "Stock": 120
+        }
+    ],
+    "Books": [
+        {
+            "ProductID": "P002",
+            "ProductName": "Python Programming",
+            "Price": 45,
+            "Stock": 200
+        },
+        {
+            "ProductID": "P005",
+            "ProductName": "Data Science Handbook",
+            "Price": 60,
+            "Stock": 150
+        }
+    ],
+    "Apparel": [
+        {
+            "ProductID": "P003",
+            "ProductName": "T-Shirt",
+            "Price": 25,
+            "Stock": 300
+        }
+    ]
+}

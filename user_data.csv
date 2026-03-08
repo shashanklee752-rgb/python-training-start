@@ -1,0 +1,10 @@
+id,name,email,age
+1,John Doe,john.doe@example.com,30
+2,Jane Smith,jane.smith@invalid,25
+3,,empty@example.com,40
+4,Alice Wonderland,alice@domain.com,105
+5,Bob Johnson,bob@example.com,22
+6,Charlie Brown,charlie@example,70
+7,David Lee,david.lee@example.com,17
+8,Eve Adams,eve.adams@example.com,55
+8,Duplicate ID,duplicate@example.com,60

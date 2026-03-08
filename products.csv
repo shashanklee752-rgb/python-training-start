@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,Stock
+P001,Laptop,Electronics,1200,50
+P002,Python Programming,Books,45,200
+P003,T-Shirt,Apparel,25,300
+P004,Smartphone,Electronics,800,120
+P005,Data Science Handbook,Books,60,150

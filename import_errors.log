@@ -1,0 +1,5 @@
+Row 3: Name cannot be empty | Data: ['3', '', 'empty@example.com', '40']
+Row 4: Age 105 out of range (18-99) | Data: ['4', 'Alice Wonderland', 'alice@domain.com', '105']
+Row 6: Invalid email format (missing '@' or '.') | Data: ['6', 'Charlie Brown', 'charlie@example', '70']
+Row 7: Age 17 out of range (18-99) | Data: ['7', 'David Lee', 'david.lee@example.com', '17']
+Row 8: Duplicate ID: 8 | Data: ['8', 'Duplicate ID', 'duplicate@example.com', '60']
